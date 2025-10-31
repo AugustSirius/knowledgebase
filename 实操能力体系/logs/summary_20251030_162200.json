@@ -1,0 +1,1059 @@
+{
+  "generation_time": "2025-10-30T16:22:00.629754",
+  "model": "Claude-Sonnet-4.5",
+  "total_skills": 150,
+  "successful": 148,
+  "failed": 2,
+  "total_tokens": 2490896,
+  "max_workers": 100,
+  "results": [
+    {
+      "id": 77,
+      "title": "危机管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/077_危机管理.md",
+      "tokens": 13841
+    },
+    {
+      "id": 58,
+      "title": "数据分析与统计",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/058_数据分析与统计.md",
+      "tokens": 16965
+    },
+    {
+      "id": 31,
+      "title": "数据素养实践",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/031_数据素养实践.md",
+      "tokens": 16963
+    },
+    {
+      "id": 29,
+      "title": "问题拆解与解决",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/029_问题拆解与解决.md",
+      "tokens": 16969
+    },
+    {
+      "id": 6,
+      "title": "注意力深度工作",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/006_注意力深度工作.md",
+      "tokens": 16971
+    },
+    {
+      "id": 42,
+      "title": "会议效率最大化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/042_会议效率最大化.md",
+      "tokens": 16968
+    },
+    {
+      "id": 56,
+      "title": "科研诚信与伦理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/056_科研诚信与伦理.md",
+      "tokens": 16967
+    },
+    {
+      "id": 88,
+      "title": "决策机制设计",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/088_决策机制设计.md",
+      "tokens": 16960
+    },
+    {
+      "id": 48,
+      "title": "科研方法论精通",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/048_科研方法论精通.md",
+      "tokens": 16963
+    },
+    {
+      "id": 39,
+      "title": "拖延症克服",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/039_拖延症克服.md",
+      "tokens": 16847
+    },
+    {
+      "id": 41,
+      "title": "日程设计艺术",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/041_日程设计艺术.md",
+      "tokens": 16968
+    },
+    {
+      "id": 5,
+      "title": "压力与韧性管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/005_压力与韧性管理.md",
+      "tokens": 16974
+    },
+    {
+      "id": 21,
+      "title": "超速学习方法论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/021_超速学习方法论.md",
+      "tokens": 16976
+    },
+    {
+      "id": 57,
+      "title": "技术技能快速学习",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/057_技术技能快速学习.md",
+      "tokens": 16964
+    },
+    {
+      "id": 76,
+      "title": "规模化成长",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/076_规模化成长.md",
+      "tokens": 16960
+    },
+    {
+      "id": 30,
+      "title": "第一性原理思维",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/030_第一性原理思维.md",
+      "tokens": 16962
+    },
+    {
+      "id": 11,
+      "title": "疼痛与不适管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/011_疼痛与不适管理.md",
+      "tokens": 16182
+    },
+    {
+      "id": 47,
+      "title": "多项目平衡",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/047_多项目平衡.md",
+      "tokens": 16965
+    },
+    {
+      "id": 52,
+      "title": "实验室管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/052_实验室管理.md",
+      "tokens": 16963
+    },
+    {
+      "id": 72,
+      "title": "财务管理要点",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/072_财务管理要点.md",
+      "tokens": 16961
+    },
+    {
+      "id": 12,
+      "title": "免疫系统优化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/012_免疫系统优化.md",
+      "tokens": 16490
+    },
+    {
+      "id": 62,
+      "title": "生物AI特定能力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/062_生物AI特定能力.md",
+      "tokens": 16976
+    },
+    {
+      "id": 43,
+      "title": "邮件与通讯管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/043_邮件与通讯管理.md",
+      "tokens": 16964
+    },
+    {
+      "id": 44,
+      "title": "自动化与系统化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/044_自动化与系统化.md",
+      "tokens": 16964
+    },
+    {
+      "id": 67,
+      "title": "精益创业实践",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/067_精益创业实践.md",
+      "tokens": 16962
+    },
+    {
+      "id": 65,
+      "title": "商业模式设计",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/065_商业模式设计.md",
+      "tokens": 16966
+    },
+    {
+      "id": 22,
+      "title": "记忆宫殿与记忆术",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/022_记忆宫殿与记忆术.md",
+      "tokens": 16980
+    },
+    {
+      "id": 92,
+      "title": "跨职能协作",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/092_跨职能协作.md",
+      "tokens": 16961
+    },
+    {
+      "id": 15,
+      "title": "环境优化设计",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/015_环境优化设计.md",
+      "tokens": 16971
+    },
+    {
+      "id": 36,
+      "title": "时间管理哲学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/036_时间管理哲学.md",
+      "tokens": 16969
+    },
+    {
+      "id": 4,
+      "title": "运动与体能构建",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/004_运动与体能构建.md",
+      "tokens": 16977
+    },
+    {
+      "id": 27,
+      "title": "系统思维应用",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/027_系统思维应用.md",
+      "tokens": 16965
+    },
+    {
+      "id": 10,
+      "title": "生物节律优化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/010_生物节律优化.md",
+      "tokens": 16976
+    },
+    {
+      "id": 83,
+      "title": "激励与动力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/083_激励与动力.md",
+      "tokens": 16966
+    },
+    {
+      "id": 20,
+      "title": "个人形象塑造",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/020_个人形象塑造.md",
+      "tokens": 15881
+    },
+    {
+      "id": 63,
+      "title": "创业思维模式",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/063_创业思维模式.md",
+      "tokens": 16965
+    },
+    {
+      "id": 13,
+      "title": "老化对抗策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/013_老化对抗策略.md",
+      "tokens": 16975
+    },
+    {
+      "id": 68,
+      "title": "产品开发与管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/068_产品开发与管理.md",
+      "tokens": 16968
+    },
+    {
+      "id": 3,
+      "title": "最优营养方案",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/003_最优营养方案.md",
+      "tokens": 16978
+    },
+    {
+      "id": 28,
+      "title": "决策科学实践",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/028_决策科学实践.md",
+      "tokens": 16966
+    },
+    {
+      "id": 2,
+      "title": "精力管理系统",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/002_精力管理系统.md",
+      "tokens": 16976
+    },
+    {
+      "id": 1,
+      "title": "睡眠优化完全指南",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/001_睡眠优化完全指南.md",
+      "tokens": 17000
+    },
+    {
+      "id": 50,
+      "title": "高水平论文写作",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/050_高水平论文写作.md",
+      "tokens": 16967
+    },
+    {
+      "id": 98,
+      "title": "对话艺术精通",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/098_对话艺术精通.md",
+      "tokens": 16965
+    },
+    {
+      "id": 84,
+      "title": "绩效管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/084_绩效管理.md",
+      "tokens": 16962
+    },
+    {
+      "id": 53,
+      "title": "学术演讲技巧",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/053_学术演讲技巧.md",
+      "tokens": 16962
+    },
+    {
+      "id": 25,
+      "title": "批判性思维实战",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/025_批判性思维实战.md",
+      "tokens": 16968
+    },
+    {
+      "id": 19,
+      "title": "声音与说话优化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/019_声音与说话优化.md",
+      "tokens": 16970
+    },
+    {
+      "id": 37,
+      "title": "GTD与任务管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/037_GTD与任务管理.md",
+      "tokens": 16963
+    },
+    {
+      "id": 71,
+      "title": "增长黑客方法",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/071_增长黑客方法.md",
+      "tokens": 16968
+    },
+    {
+      "id": 46,
+      "title": "说不的策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/046_说不的策略.md",
+      "tokens": 16965
+    },
+    {
+      "id": 24,
+      "title": "写作与表达能力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/024_写作与表达能力.md",
+      "tokens": 16968
+    },
+    {
+      "id": 26,
+      "title": "创造力培养系统",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/026_创造力培养系统.md",
+      "tokens": 16965
+    },
+    {
+      "id": 8,
+      "title": "情绪智能实践",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/008_情绪智能实践.md",
+      "tokens": 16975
+    },
+    {
+      "id": 16,
+      "title": "数字健康与屏幕时间",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/016_数字健康与屏幕时间.md",
+      "tokens": 16973
+    },
+    {
+      "id": 80,
+      "title": "创业失败复盘",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/080_创业失败复盘.md",
+      "tokens": 16960
+    },
+    {
+      "id": 69,
+      "title": "市场营销基础",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/069_市场营销基础.md",
+      "tokens": 16964
+    },
+    {
+      "id": 89,
+      "title": "组织文化塑造",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/089_组织文化塑造.md",
+      "tokens": 16962
+    },
+    {
+      "id": 70,
+      "title": "销售技能培养",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/070_销售技能培养.md",
+      "tokens": 16967
+    },
+    {
+      "id": 14,
+      "title": "性健康与活力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/014_性健康与活力.md",
+      "tokens": 16970
+    },
+    {
+      "id": 35,
+      "title": "元认知与自我监控",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/035_元认知与自我监控.md",
+      "tokens": 16964
+    },
+    {
+      "id": 61,
+      "title": "科学传播能力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/061_科学传播能力.md",
+      "tokens": 16962
+    },
+    {
+      "id": 90,
+      "title": "1对1对话技巧",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/090_1对1对话技巧.md",
+      "tokens": 16964
+    },
+    {
+      "id": 59,
+      "title": "科研创新思维",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/059_科研创新思维.md",
+      "tokens": 16961
+    },
+    {
+      "id": 34,
+      "title": "多语言学习策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/034_多语言学习策略.md",
+      "tokens": 16966
+    },
+    {
+      "id": 73,
+      "title": "法律与合规",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/073_法律与合规.md",
+      "tokens": 16959
+    },
+    {
+      "id": 87,
+      "title": "变革领导",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/087_变革领导.md",
+      "tokens": 16963
+    },
+    {
+      "id": 82,
+      "title": "团队建设",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/082_团队建设.md",
+      "tokens": 16961
+    },
+    {
+      "id": 79,
+      "title": "生物科技创业特点",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/079_生物科技创业特点.md",
+      "tokens": 16965
+    },
+    {
+      "id": 60,
+      "title": "学术职业规划",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/060_学术职业规划.md",
+      "tokens": 16964
+    },
+    {
+      "id": 85,
+      "title": "冲突解决",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/085_冲突解决.md",
+      "tokens": 16964
+    },
+    {
+      "id": 45,
+      "title": "委派的艺术",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/045_委派的艺术.md",
+      "tokens": 16962
+    },
+    {
+      "id": 49,
+      "title": "文献阅读与综述",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/049_文献阅读与综述.md",
+      "tokens": 16971
+    },
+    {
+      "id": 55,
+      "title": "学术影响力构建",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/055_学术影响力构建.md",
+      "tokens": 16964
+    },
+    {
+      "id": 91,
+      "title": "远程团队管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/091_远程团队管理.md",
+      "tokens": 16962
+    },
+    {
+      "id": 93,
+      "title": "人才发展与继任",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/093_人才发展与继任.md",
+      "tokens": 16964
+    },
+    {
+      "id": 96,
+      "title": "社交智能基础",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/096_社交智能基础.md",
+      "tokens": 16961
+    },
+    {
+      "id": 7,
+      "title": "认知增强技术",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/007_认知增强技术.md",
+      "tokens": 16978
+    },
+    {
+      "id": 78,
+      "title": "退出策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/078_退出策略.md",
+      "tokens": 16957
+    },
+    {
+      "id": 86,
+      "title": "授权与赋能",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/086_授权与赋能.md",
+      "tokens": 16960
+    },
+    {
+      "id": 66,
+      "title": "融资全流程",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/066_融资全流程.md",
+      "tokens": 16967
+    },
+    {
+      "id": 99,
+      "title": "魅力与吸引力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/099_魅力与吸引力.md",
+      "tokens": 16966
+    },
+    {
+      "id": 75,
+      "title": "竞争分析与定位",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/075_竞争分析与定位.md",
+      "tokens": 16963
+    },
+    {
+      "id": 64,
+      "title": "从0到1的创业",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/064_从0到1的创业.md",
+      "tokens": 16962
+    },
+    {
+      "id": 51,
+      "title": "基金申请策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/051_基金申请策略.md",
+      "tokens": 16963
+    },
+    {
+      "id": 32,
+      "title": "模式识别能力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/032_模式识别能力.md",
+      "tokens": 16960
+    },
+    {
+      "id": 74,
+      "title": "战略规划执行",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/创业与商业/074_战略规划执行.md",
+      "tokens": 16965
+    },
+    {
+      "id": 97,
+      "title": "第一印象管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/097_第一印象管理.md",
+      "tokens": 16961
+    },
+    {
+      "id": 100,
+      "title": "社交场合导航",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/100_社交场合导航.md",
+      "tokens": 16973
+    },
+    {
+      "id": 95,
+      "title": "多代际团队管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/095_多代际团队管理.md",
+      "tokens": 16961
+    },
+    {
+      "id": 132,
+      "title": "私人俱乐部策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/132_私人俱乐部策略.md",
+      "tokens": 14063
+    },
+    {
+      "id": 117,
+      "title": "内容创作系统",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/117_内容创作系统.md",
+      "tokens": 13024
+    },
+    {
+      "id": 103,
+      "title": "影响力与说服",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/103_影响力与说服.md",
+      "tokens": 16340
+    },
+    {
+      "id": 18,
+      "title": "身体语言与存在感",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/018_身体语言与存在感.md",
+      "tokens": 16969
+    },
+    {
+      "id": 121,
+      "title": "教学与培训能力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/121_教学与培训能力.md",
+      "tokens": 15282
+    },
+    {
+      "id": 94,
+      "title": "危机时期领导",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/094_危机时期领导.md",
+      "tokens": 16962
+    },
+    {
+      "id": 131,
+      "title": "投资者网络",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/131_投资者网络.md",
+      "tokens": 14870
+    },
+    {
+      "id": 118,
+      "title": "思想领袖地位",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/118_思想领袖地位.md",
+      "tokens": 15837
+    },
+    {
+      "id": 119,
+      "title": "社群建设运营",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/119_社群建设运营.md",
+      "tokens": 16966
+    },
+    {
+      "id": 111,
+      "title": "礼物与感谢艺术",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/111_礼物与感谢艺术.md",
+      "tokens": 14986
+    },
+    {
+      "id": 106,
+      "title": "家庭关系管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/106_家庭关系管理.md",
+      "tokens": 16974
+    },
+    {
+      "id": 108,
+      "title": "导师关系建立",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/108_导师关系建立.md",
+      "tokens": 16960
+    },
+    {
+      "id": 17,
+      "title": "嗜好与成瘾管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/身心基础建设/017_嗜好与成瘾管理.md",
+      "tokens": 16978
+    },
+    {
+      "id": 135,
+      "title": "国际精英网络",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/135_国际精英网络.md",
+      "tokens": 16963
+    },
+    {
+      "id": 104,
+      "title": "冲突与困难对话",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/104_冲突与困难对话.md",
+      "tokens": 16965
+    },
+    {
+      "id": 105,
+      "title": "亲密关系经营",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/105_亲密关系经营.md",
+      "tokens": 16970
+    },
+    {
+      "id": 128,
+      "title": "企业家圈子",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/128_企业家圈子.md",
+      "tokens": 16962
+    },
+    {
+      "id": 114,
+      "title": "个人品牌战略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/114_个人品牌战略.md",
+      "tokens": 16964
+    },
+    {
+      "id": 146,
+      "title": "遗产与传承",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/146_遗产与传承.md",
+      "tokens": 16964
+    },
+    {
+      "id": 112,
+      "title": "社交资本投资",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/112_社交资本投资.md",
+      "tokens": 16963
+    },
+    {
+      "id": 115,
+      "title": "公众演讲精通",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/115_公众演讲精通.md",
+      "tokens": 16966
+    },
+    {
+      "id": 107,
+      "title": "友谊的深化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/107_友谊的深化.md",
+      "tokens": 16967
+    },
+    {
+      "id": 126,
+      "title": "圈层结构解析",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/126_圈层结构解析.md",
+      "tokens": 16966
+    },
+    {
+      "id": 145,
+      "title": "个人董事会",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/145_个人董事会.md",
+      "tokens": 16962
+    },
+    {
+      "id": 144,
+      "title": "反脆弱性构建",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/144_反脆弱性构建.md",
+      "tokens": 16963
+    },
+    {
+      "id": 143,
+      "title": "复利思维实践",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/143_复利思维实践.md",
+      "tokens": 16963
+    },
+    {
+      "id": 139,
+      "title": "多角色整合",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/139_多角色整合.md",
+      "tokens": 16971
+    },
+    {
+      "id": 110,
+      "title": "社交媒体策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/110_社交媒体策略.md",
+      "tokens": 16971
+    },
+    {
+      "id": 130,
+      "title": "政治圈层接触",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/130_政治圈层接触.md",
+      "tokens": 16963
+    },
+    {
+      "id": 142,
+      "title": "专注力分配",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/142_专注力分配.md",
+      "tokens": 16963
+    },
+    {
+      "id": 133,
+      "title": "董事会参与",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/133_董事会参与.md",
+      "tokens": 16962
+    },
+    {
+      "id": 120,
+      "title": "辩论与论战",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/120_辩论与论战.md",
+      "tokens": 16967
+    },
+    {
+      "id": 140,
+      "title": "资源整合能力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/140_资源整合能力.md",
+      "tokens": 16964
+    },
+    {
+      "id": 136,
+      "title": "价值提供策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/136_价值提供策略.md",
+      "tokens": 16960
+    },
+    {
+      "id": 116,
+      "title": "媒体应对技巧",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/116_媒体应对技巧.md",
+      "tokens": 16966
+    },
+    {
+      "id": 23,
+      "title": "阅读效率最大化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/023_阅读效率最大化.md",
+      "tokens": 16969
+    },
+    {
+      "id": 125,
+      "title": "奖项与荣誉获取",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/125_奖项与荣誉获取.md",
+      "tokens": 16971
+    },
+    {
+      "id": 138,
+      "title": "人生战略规划",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/138_人生战略规划.md",
+      "tokens": 16968
+    },
+    {
+      "id": 127,
+      "title": "科研圈层建设",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/127_科研圈层建设.md",
+      "tokens": 16965
+    },
+    {
+      "id": 149,
+      "title": "权力与影响力运用",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/149_权力与影响力运用.md",
+      "tokens": 16964
+    },
+    {
+      "id": 148,
+      "title": "意义与目的整合",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/148_意义与目的整合.md",
+      "tokens": 16966
+    },
+    {
+      "id": 147,
+      "title": "持续进化机制",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/147_持续进化机制.md",
+      "tokens": 16963
+    },
+    {
+      "id": 122,
+      "title": "咨询顾问技能",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/122_咨询顾问技能.md",
+      "tokens": 16967
+    },
+    {
+      "id": 123,
+      "title": "书籍出版策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/123_书籍出版策略.md",
+      "tokens": 16966
+    },
+    {
+      "id": 38,
+      "title": "项目管理实战",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/时间与生产力/038_项目管理实战.md",
+      "tokens": 16962
+    },
+    {
+      "id": 134,
+      "title": "慈善与公益网络",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/134_慈善与公益网络.md",
+      "tokens": 16968
+    },
+    {
+      "id": 54,
+      "title": "科研合作建立",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/科研能力建设/054_科研合作建立.md",
+      "tokens": 16967
+    },
+    {
+      "id": 33,
+      "title": "知识管理系统",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/认知与学习能力/033_知识管理系统.md",
+      "tokens": 16963
+    },
+    {
+      "id": 9,
+      "title": "心理健康维护",
+      "success": false,
+      "error": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML=\"window.__CF$cv$params={r:'9969745eabfad740',t:'MTc2MTgxMjMwNy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);\";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>\r\n</html>"
+    },
+    {
+      "id": 40,
+      "title": "番茄工作法进阶",
+      "success": false,
+      "error": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML=\"window.__CF$cv$params={r:'996974319faba605',t:'MTc2MTgxMjMyMi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);\";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>\r\n</html>"
+    },
+    {
+      "id": 129,
+      "title": "艺术圈层进入",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/129_艺术圈层进入.md",
+      "tokens": 16976
+    },
+    {
+      "id": 124,
+      "title": "会议组织与主持",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/影响力与公众表达/124_会议组织与主持.md",
+      "tokens": 16968
+    },
+    {
+      "id": 101,
+      "title": "人脉构建系统",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/101_人脉构建系统.md",
+      "tokens": 16964
+    },
+    {
+      "id": 81,
+      "title": "领导力本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/领导力与管理/081_领导力本质.md",
+      "tokens": 16960
+    },
+    {
+      "id": 137,
+      "title": "声誉管理系统",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/圈层渗透与精英社交/137_声誉管理系统.md",
+      "tokens": 16816
+    },
+    {
+      "id": 102,
+      "title": "向上社交策略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/102_向上社交策略.md",
+      "tokens": 16963
+    },
+    {
+      "id": 113,
+      "title": "读人与洞察力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/113_读人与洞察力.md",
+      "tokens": 16963
+    },
+    {
+      "id": 141,
+      "title": "风险组合管理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/141_风险组合管理.md",
+      "tokens": 16967
+    },
+    {
+      "id": 109,
+      "title": "跨文化社交",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/社交与人际关系/109_跨文化社交.md",
+      "tokens": 16959
+    },
+    {
+      "id": 150,
+      "title": "永生项目战略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实操能力体系/综合与高级整合/150_永生项目战略.md",
+      "tokens": 16973
+    }
+  ]
+}

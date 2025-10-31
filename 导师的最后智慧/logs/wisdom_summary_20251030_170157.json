@@ -1,0 +1,305 @@
+{
+  "generation_time": "2025-10-30T17:01:57.935215",
+  "model": "Claude-Sonnet-4.5",
+  "total_wisdom": 42,
+  "successful": 42,
+  "failed": 0,
+  "total_tokens": 397550,
+  "max_workers": 100,
+  "results": [
+    {
+      "id": 30,
+      "title": "每个大成功背后都有无数小失败",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于失败与韧性/30_每个大成功背后都有无数小失败.md",
+      "tokens": 5448
+    },
+    {
+      "id": 29,
+      "title": "成功后，记得拉别人一把",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于权力与影响力/29_成功后，记得拉别人一把.md",
+      "tokens": 5838
+    },
+    {
+      "id": 42,
+      "title": "最后，最重要的是你成为什么样的人",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/终极真理/42_最后，最重要的是你成为什么样的人.md",
+      "tokens": 6089
+    },
+    {
+      "id": 10,
+      "title": "孤独是领导者的税",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于内在游戏/10_孤独是领导者的税.md",
+      "tokens": 6216
+    },
+    {
+      "id": 33,
+      "title": "痛苦是成长的信号",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于失败与韧性/33_痛苦是成长的信号.md",
+      "tokens": 7341
+    },
+    {
+      "id": 40,
+      "title": "约束激发创造力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于创造与创新/40_约束激发创造力.md",
+      "tokens": 7541
+    },
+    {
+      "id": 31,
+      "title": "韧性可以训练",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于失败与韧性/31_韧性可以训练.md",
+      "tokens": 8202
+    },
+    {
+      "id": 34,
+      "title": "有时候最好的答案是暂停",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于失败与韧性/34_有时候最好的答案是暂停.md",
+      "tokens": 7951
+    },
+    {
+      "id": 25,
+      "title": "真正的影响力是无形的",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于权力与影响力/25_真正的影响力是无形的.md",
+      "tokens": 8274
+    },
+    {
+      "id": 9,
+      "title": "你最大的敌人是你自己",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于内在游戏/09_你最大的敌人是你自己.md",
+      "tokens": 8511
+    },
+    {
+      "id": 24,
+      "title": "权力是责任，不是特权",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于权力与影响力/24_权力是责任，不是特权.md",
+      "tokens": 8223
+    },
+    {
+      "id": 27,
+      "title": "教导是最好的学习",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于权力与影响力/27_教导是最好的学习.md",
+      "tokens": 8468
+    },
+    {
+      "id": 28,
+      "title": "批评者会出现，学会处理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于权力与影响力/28_批评者会出现，学会处理.md",
+      "tokens": 8506
+    },
+    {
+      "id": 32,
+      "title": "最黑暗的时刻往往在黎明前",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于失败与韧性/32_最黑暗的时刻往往在黎明前.md",
+      "tokens": 8438
+    },
+    {
+      "id": 21,
+      "title": "友谊需要主动维护",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于关系与连接/21_友谊需要主动维护.md",
+      "tokens": 8547
+    },
+    {
+      "id": 2,
+      "title": "慢即是快",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于成功的反直觉真理/02_慢即是快.md",
+      "tokens": 8837
+    },
+    {
+      "id": 12,
+      "title": "你的身份不是你的成就",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于内在游戏/12_你的身份不是你的成就.md",
+      "tokens": 8876
+    },
+    {
+      "id": 16,
+      "title": "你的直觉比你想象的更聪明",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于内在游戏/16_你的直觉比你想象的更聪明.md",
+      "tokens": 9275
+    },
+    {
+      "id": 38,
+      "title": "现在永远是最好的时机",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于时间与优先级/38_现在永远是最好的时机.md",
+      "tokens": 8827
+    },
+    {
+      "id": 41,
+      "title": "完成比完美更重要",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于创造与创新/41_完成比完美更重要.md",
+      "tokens": 9409
+    },
+    {
+      "id": 14,
+      "title": "你不能从一个空杯子里倒水",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于内在游戏/14_你不能从一个空杯子里倒水.md",
+      "tokens": 9148
+    },
+    {
+      "id": 23,
+      "title": "你成为你相处最多的5个人的平均",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于关系与连接/23_你成为你相处最多的5个人的平均.md",
+      "tokens": 9676
+    },
+    {
+      "id": 11,
+      "title": "脆弱是力量，不是弱点",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于内在游戏/11_脆弱是力量，不是弱点.md",
+      "tokens": 9714
+    },
+    {
+      "id": 15,
+      "title": "意义来自贡献，不是获取",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于内在游戏/15_意义来自贡献，不是获取.md",
+      "tokens": 10053
+    },
+    {
+      "id": 1,
+      "title": "最大的风险是不冒风险",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于成功的反直觉真理/01_最大的风险是不冒风险.md",
+      "tokens": 9690
+    },
+    {
+      "id": 5,
+      "title": "你的竞争对手不是其他人",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于成功的反直觉真理/05_你的竞争对手不是其他人.md",
+      "tokens": 10202
+    },
+    {
+      "id": 22,
+      "title": "学会独处但不孤立",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于关系与连接/22_学会独处但不孤立.md",
+      "tokens": 10167
+    },
+    {
+      "id": 4,
+      "title": "最聪明的人不是最成功的人",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于成功的反直觉真理/04_最聪明的人不是最成功的人.md",
+      "tokens": 10388
+    },
+    {
+      "id": 36,
+      "title": "紧急不等于重要",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于时间与优先级/36_紧急不等于重要.md",
+      "tokens": 10504
+    },
+    {
+      "id": 8,
+      "title": "B+的工作A+的社交胜过A+的工作B的社交",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于成功的反直觉真理/08_B+的工作A+的社交胜过A+的工作B的社交.md",
+      "tokens": 10673
+    },
+    {
+      "id": 3,
+      "title": "说不比说是更重要",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于成功的反直觉真理/03_说不比说是更重要.md",
+      "tokens": 11007
+    },
+    {
+      "id": 6,
+      "title": "失败是数据，不是身份",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于成功的反直觉真理/06_失败是数据，不是身份.md",
+      "tokens": 12165
+    },
+    {
+      "id": 39,
+      "title": "原创性来自组合，不是凭空创造",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于创造与创新/39_原创性来自组合，不是凭空创造.md",
+      "tokens": 12892
+    },
+    {
+      "id": 7,
+      "title": "10年看起来很长，但过得很快",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于成功的反直觉真理/07_10年看起来很长，但过得很快.md",
+      "tokens": 12904
+    },
+    {
+      "id": 20,
+      "title": "原生家庭的影响比你想象的深",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于关系与连接/20_原生家庭的影响比你想象的深.md",
+      "tokens": 12899
+    },
+    {
+      "id": 37,
+      "title": "死亡是最好的老师",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于时间与优先级/37_死亡是最好的老师.md",
+      "tokens": 12893
+    },
+    {
+      "id": 35,
+      "title": "时间是你唯一真正拥有的货币",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于时间与优先级/35_时间是你唯一真正拥有的货币.md",
+      "tokens": 12223
+    },
+    {
+      "id": 19,
+      "title": "伴侣选择是你最重要的决策",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于关系与连接/19_伴侣选择是你最重要的决策.md",
+      "tokens": 12905
+    },
+    {
+      "id": 26,
+      "title": "声誉建立缓慢，毁坏迅速",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于权力与影响力/26_声誉建立缓慢，毁坏迅速.md",
+      "tokens": 12901
+    },
+    {
+      "id": 18,
+      "title": "给予先于索取",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于关系与连接/18_给予先于索取.md",
+      "tokens": 7352
+    },
+    {
+      "id": 17,
+      "title": "深度连接胜过广泛网络",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于关系与连接/17_深度连接胜过广泛网络.md",
+      "tokens": 8933
+    },
+    {
+      "id": 13,
+      "title": "完美主义是自我破坏的优雅形式",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/导师的最后智慧/关于内在游戏/13_完美主义是自我破坏的优雅形式.md",
+      "tokens": 9444
+    }
+  ]
+}

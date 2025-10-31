@@ -1,0 +1,220 @@
+{
+  "generation_time": "2025-10-30T17:24:06.656344",
+  "model": "Claude-Sonnet-4.5",
+  "total_topics": 30,
+  "successful": 29,
+  "failed": 1,
+  "total_tokens": 514189,
+  "max_workers": 100,
+  "results": [
+    {
+      "id": 10,
+      "title": "熵与时间之箭：为什么时间有方向",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/时间与因果/10_熵与时间之箭为什么时间有方向.md",
+      "tokens": 17736
+    },
+    {
+      "id": 4,
+      "title": "压缩即理解：信息论视角的认知",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/信息与计算的本质/04_压缩即理解信息论视角的认知.md",
+      "tokens": 17730
+    },
+    {
+      "id": 12,
+      "title": "量子纠缠：超距幽灵作用的深层意义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/量子世界/12_量子纠缠超距幽灵作用的深层意义.md",
+      "tokens": 17741
+    },
+    {
+      "id": 21,
+      "title": "幂律与标度不变性：从分形到城市",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/复杂系统/21_幂律与标度不变性从分形到城市.md",
+      "tokens": 17728
+    },
+    {
+      "id": 29,
+      "title": "为何存在而非虚无：终极问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/宇宙与存在/29_为何存在而非虚无终极问题.md",
+      "tokens": 17738
+    },
+    {
+      "id": 13,
+      "title": "量子vs经典的边界：退相干的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/量子世界/13_量子vs经典的边界退相干的本质.md",
+      "tokens": 17716
+    },
+    {
+      "id": 23,
+      "title": "预测处理：大脑作为预测机器",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/认知与智能/23_预测处理大脑作为预测机器.md",
+      "tokens": 17719
+    },
+    {
+      "id": 14,
+      "title": "数学的unreasonable effectiveness",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/数学与现实/14_数学的unreasonable effectiveness.md",
+      "tokens": 17732
+    },
+    {
+      "id": 26,
+      "title": "语言如何塑造思维：Sapir-Whorf再审视",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/语言与符号/26_语言如何塑造思维Sapir-Whorf再审视.md",
+      "tokens": 17735
+    },
+    {
+      "id": 8,
+      "title": "时间的本质：流动还是block universe",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/时间与因果/08_时间的本质流动还是block universe.md",
+      "tokens": 17733
+    },
+    {
+      "id": 1,
+      "title": "信息的物理本质：从香农到量子信息",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/信息与计算的本质/01_信息的物理本质从香农到量子信息.md",
+      "tokens": 17751
+    },
+    {
+      "id": 5,
+      "title": "意识的困难问题：主观体验从何而来",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/意识与主观性/05_意识的困难问题主观体验从何而来.md",
+      "tokens": 17741
+    },
+    {
+      "id": 19,
+      "title": "基因组作为程序：生命的计算本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/生命与演化/19_基因组作为程序生命的计算本质.md",
+      "tokens": 17733
+    },
+    {
+      "id": 27,
+      "title": "符号接地问题：意义从何而来",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/语言与符号/27_符号接地问题意义从何而来.md",
+      "tokens": 17715
+    },
+    {
+      "id": 11,
+      "title": "量子测量问题：观察者的角色",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/量子世界/11_量子测量问题观察者的角色.md",
+      "tokens": 17733
+    },
+    {
+      "id": 20,
+      "title": "相变与临界性：质变的普遍规律",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/复杂系统/20_相变与临界性质变的普遍规律.md",
+      "tokens": 17722
+    },
+    {
+      "id": 25,
+      "title": "元认知：思考思考本身",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/认知与智能/25_元认知思考思考本身.md",
+      "tokens": 17715
+    },
+    {
+      "id": 7,
+      "title": "qualia的本质：红色的redness",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/意识与主观性/07_qualia的本质红色的redness.md",
+      "tokens": 17726
+    },
+    {
+      "id": 6,
+      "title": "自我的幻觉：分布式的自我体验",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/意识与主观性/06_自我的幻觉分布式的自我体验.md",
+      "tokens": 17742
+    },
+    {
+      "id": 30,
+      "title": "模拟假说：我们生活在计算机中吗",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/宇宙与存在/30_模拟假说我们生活在计算机中吗.md",
+      "tokens": 17737
+    },
+    {
+      "id": 24,
+      "title": "类比的力量：认知的核心机制",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/认知与智能/24_类比的力量认知的核心机制.md",
+      "tokens": 17723
+    },
+    {
+      "id": 18,
+      "title": "演化的创造力：从随机到设计",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/生命与演化/18_演化的创造力从随机到设计.md",
+      "tokens": 17720
+    },
+    {
+      "id": 9,
+      "title": "因果的多层次本质：从物理到意义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/时间与因果/09_因果的多层次本质从物理到意义.md",
+      "tokens": 17727
+    },
+    {
+      "id": 3,
+      "title": "计算的极限：停机问题与不可计算性",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/信息与计算的本质/03_计算的极限停机问题与不可计算性.md",
+      "tokens": 17744
+    },
+    {
+      "id": 16,
+      "title": "无穷的悖论：从Cantor到宇宙学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/数学与现实/16_无穷的悖论从Cantor到宇宙学.md",
+      "tokens": 17729
+    },
+    {
+      "id": 28,
+      "title": "精细调节与人择原理",
+      "success": false,
+      "error": "Request timed out."
+    },
+    {
+      "id": 22,
+      "title": "网络科学：连接的力量",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/复杂系统/22_网络科学连接的力量.md",
+      "tokens": 17715
+    },
+    {
+      "id": 17,
+      "title": "生命的本质：自催化与代谢",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/生命与演化/17_生命的本质自催化与代谢.md",
+      "tokens": 17734
+    },
+    {
+      "id": 15,
+      "title": "哥德尔不完备性的深层含义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/数学与现实/15_哥德尔不完备性的深层含义.md",
+      "tokens": 17723
+    },
+    {
+      "id": 2,
+      "title": "涌现：当1+1>2的深层机制",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/深度探索文档/信息与计算的本质/02_涌现当112的深层机制.md",
+      "tokens": 17751
+    }
+  ]
+}

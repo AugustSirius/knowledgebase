@@ -1,0 +1,1061 @@
+{
+  "generation_time": "2025-10-30T15:54:28.488258",
+  "model": "Claude-Sonnet-4.5",
+  "total_topics": 150,
+  "successful": 150,
+  "failed": 0,
+  "total_tokens": 1863843,
+  "max_workers": 100,
+  "results": [
+    {
+      "id": 27,
+      "title": "信息论基础",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/027_信息论基础.md",
+      "tokens": 7686
+    },
+    {
+      "id": 86,
+      "title": "全球化的经济学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/086_全球化的经济学.md",
+      "tokens": 7684
+    },
+    {
+      "id": 13,
+      "title": "怀疑论的挑战",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/013_怀疑论的挑战.md",
+      "tokens": 7377
+    },
+    {
+      "id": 16,
+      "title": "心灵哲学的核心问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/016_心灵哲学的核心问题.md",
+      "tokens": 7592
+    },
+    {
+      "id": 53,
+      "title": "群体心理学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/053_群体心理学.md",
+      "tokens": 8420
+    },
+    {
+      "id": 63,
+      "title": "意识形态的功能",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/063_意识形态的功能.md",
+      "tokens": 8380
+    },
+    {
+      "id": 61,
+      "title": "公共选择理论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/061_公共选择理论.md",
+      "tokens": 8193
+    },
+    {
+      "id": 32,
+      "title": "计算理论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/032_计算理论.md",
+      "tokens": 8377
+    },
+    {
+      "id": 33,
+      "title": "网络科学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/033_网络科学.md",
+      "tokens": 9095
+    },
+    {
+      "id": 24,
+      "title": "熵与热力学第二定律",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/024_熵与热力学第二定律.md",
+      "tokens": 9194
+    },
+    {
+      "id": 31,
+      "title": "人工智能的基础",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/031_人工智能的基础.md",
+      "tokens": 9242
+    },
+    {
+      "id": 9,
+      "title": "个体同一性问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/009_个体同一性问题.md",
+      "tokens": 8805
+    },
+    {
+      "id": 49,
+      "title": "压力与应对",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/049_压力与应对.md",
+      "tokens": 9241
+    },
+    {
+      "id": 75,
+      "title": "话语权与叙事",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/075_话语权与叙事.md",
+      "tokens": 9184
+    },
+    {
+      "id": 60,
+      "title": "制度设计原理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/060_制度设计原理.md",
+      "tokens": 9476
+    },
+    {
+      "id": 81,
+      "title": "制度经济学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/081_制度经济学.md",
+      "tokens": 9872
+    },
+    {
+      "id": 43,
+      "title": "情绪的功能",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/043_情绪的功能.md",
+      "tokens": 10061
+    },
+    {
+      "id": 2,
+      "title": "因果性与决定论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/002_因果性与决定论.md",
+      "tokens": 9151
+    },
+    {
+      "id": 40,
+      "title": "还原主义的层次",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/040_还原主义的层次.md",
+      "tokens": 9855
+    },
+    {
+      "id": 26,
+      "title": "相对论与时空本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/026_相对论与时空本质.md",
+      "tokens": 10366
+    },
+    {
+      "id": 73,
+      "title": "战争与和平",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/073_战争与和平.md",
+      "tokens": 9503
+    },
+    {
+      "id": 84,
+      "title": "创新经济学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/084_创新经济学.md",
+      "tokens": 10591
+    },
+    {
+      "id": 51,
+      "title": "创造力的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/051_创造力的本质.md",
+      "tokens": 10562
+    },
+    {
+      "id": 12,
+      "title": "抽象对象的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/012_抽象对象的本质.md",
+      "tokens": 10816
+    },
+    {
+      "id": 90,
+      "title": "机制设计",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/090_机制设计.md",
+      "tokens": 10936
+    },
+    {
+      "id": 98,
+      "title": "文化相对主义vs普遍主义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/098_文化相对主义vs普遍主义.md",
+      "tokens": 10486
+    },
+    {
+      "id": 30,
+      "title": "系统生物学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/030_系统生物学.md",
+      "tokens": 11087
+    },
+    {
+      "id": 70,
+      "title": "全球治理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/070_全球治理.md",
+      "tokens": 10531
+    },
+    {
+      "id": 66,
+      "title": "法律与道德的关系",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/066_法律与道德的关系.md",
+      "tokens": 10047
+    },
+    {
+      "id": 54,
+      "title": "权力与地位心理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/054_权力与地位心理.md",
+      "tokens": 10248
+    },
+    {
+      "id": 8,
+      "title": "时间的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/008_时间的本质.md",
+      "tokens": 11570
+    },
+    {
+      "id": 28,
+      "title": "生命的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/028_生命的本质.md",
+      "tokens": 10897
+    },
+    {
+      "id": 14,
+      "title": "伦理学的元问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/014_伦理学的元问题.md",
+      "tokens": 11640
+    },
+    {
+      "id": 3,
+      "title": "意识的困难问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/003_意识的困难问题.md",
+      "tokens": 11040
+    },
+    {
+      "id": 29,
+      "title": "大脑与认知科学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/029_大脑与认知科学.md",
+      "tokens": 11350
+    },
+    {
+      "id": 78,
+      "title": "博弈论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/078_博弈论.md",
+      "tokens": 11784
+    },
+    {
+      "id": 83,
+      "title": "金融市场",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/083_金融市场.md",
+      "tokens": 11666
+    },
+    {
+      "id": 65,
+      "title": "不平等的根源",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/065_不平等的根源.md",
+      "tokens": 11124
+    },
+    {
+      "id": 50,
+      "title": "依恋理论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/050_依恋理论.md",
+      "tokens": 11560
+    },
+    {
+      "id": 88,
+      "title": "不确定性下的决策",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/088_不确定性下的决策.md",
+      "tokens": 11866
+    },
+    {
+      "id": 7,
+      "title": "语言与实在的关系",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/007_语言与实在的关系.md",
+      "tokens": 11642
+    },
+    {
+      "id": 76,
+      "title": "经济学的基本原理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/076_经济学的基本原理.md",
+      "tokens": 12125
+    },
+    {
+      "id": 23,
+      "title": "进化论的深层含义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/023_进化论的深层含义.md",
+      "tokens": 11970
+    },
+    {
+      "id": 71,
+      "title": "公民社会",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/071_公民社会.md",
+      "tokens": 11607
+    },
+    {
+      "id": 21,
+      "title": "科学方法的哲学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/021_科学方法的哲学.md",
+      "tokens": 11811
+    },
+    {
+      "id": 68,
+      "title": "革命与社会变革",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/068_革命与社会变革.md",
+      "tokens": 12658
+    },
+    {
+      "id": 34,
+      "title": "统计推断的哲学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/034_统计推断的哲学.md",
+      "tokens": 13603
+    },
+    {
+      "id": 95,
+      "title": "启蒙运动的遗产",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/095_启蒙运动的遗产.md",
+      "tokens": 12633
+    },
+    {
+      "id": 39,
+      "title": "科学革命的结构",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/039_科学革命的结构.md",
+      "tokens": 12558
+    },
+    {
+      "id": 64,
+      "title": "社会资本",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/064_社会资本.md",
+      "tokens": 12390
+    },
+    {
+      "id": 100,
+      "title": "记忆与历史",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/100_记忆与历史.md",
+      "tokens": 13150
+    },
+    {
+      "id": 41,
+      "title": "人性的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/041_人性的本质.md",
+      "tokens": 11971
+    },
+    {
+      "id": 97,
+      "title": "冷战的深层逻辑",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/097_冷战的深层逻辑.md",
+      "tokens": 12802
+    },
+    {
+      "id": 59,
+      "title": "自由的概念",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/059_自由的概念.md",
+      "tokens": 12571
+    },
+    {
+      "id": 10,
+      "title": "必然性与可能性",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/010_必然性与可能性.md",
+      "tokens": 13671
+    },
+    {
+      "id": 17,
+      "title": "规范性的基础",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/017_规范性的基础.md",
+      "tokens": 13416
+    },
+    {
+      "id": 25,
+      "title": "量子力学的诠释",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/025_量子力学的诠释.md",
+      "tokens": 13853
+    },
+    {
+      "id": 91,
+      "title": "历史的动力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/091_历史的动力.md",
+      "tokens": 13260
+    },
+    {
+      "id": 45,
+      "title": "社会认知",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/045_社会认知.md",
+      "tokens": 13203
+    },
+    {
+      "id": 82,
+      "title": "宏观经济动态",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/082_宏观经济动态.md",
+      "tokens": 13180
+    },
+    {
+      "id": 11,
+      "title": "还原论vs整体论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/011_还原论vs整体论.md",
+      "tokens": 13854
+    },
+    {
+      "id": 69,
+      "title": "民族主义与认同政治",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/069_民族主义与认同政治.md",
+      "tokens": 13535
+    },
+    {
+      "id": 1,
+      "title": "认识论的根本问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/001_认识论的根本问题.md",
+      "tokens": 12953
+    },
+    {
+      "id": 5,
+      "title": "真理的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/005_真理的本质.md",
+      "tokens": 13769
+    },
+    {
+      "id": 72,
+      "title": "腐败的政治经济学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/072_腐败的政治经济学.md",
+      "tokens": 14260
+    },
+    {
+      "id": 56,
+      "title": "权力的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/056_权力的本质.md",
+      "tokens": 14059
+    },
+    {
+      "id": 79,
+      "title": "信息经济学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/079_信息经济学.md",
+      "tokens": 14712
+    },
+    {
+      "id": 62,
+      "title": "国家的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/062_国家的本质.md",
+      "tokens": 15142
+    },
+    {
+      "id": 85,
+      "title": "发展经济学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/085_发展经济学.md",
+      "tokens": 14804
+    },
+    {
+      "id": 57,
+      "title": "正义理论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/057_正义理论.md",
+      "tokens": 14636
+    },
+    {
+      "id": 58,
+      "title": "民主的理论与实践",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/058_民主的理论与实践.md",
+      "tokens": 15336
+    },
+    {
+      "id": 44,
+      "title": "认知与情感的交互",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/044_认知与情感的交互.md",
+      "tokens": 16702
+    },
+    {
+      "id": 80,
+      "title": "行为经济学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/080_行为经济学.md",
+      "tokens": 16000
+    },
+    {
+      "id": 47,
+      "title": "意义与目的感",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/047_意义与目的感.md",
+      "tokens": 15486
+    },
+    {
+      "id": 42,
+      "title": "动机与欲望的结构",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/042_动机与欲望的结构.md",
+      "tokens": 16035
+    },
+    {
+      "id": 55,
+      "title": "死亡意识与存在焦虑",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/055_死亡意识与存在焦虑.md",
+      "tokens": 16704
+    },
+    {
+      "id": 22,
+      "title": "复杂性科学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/022_复杂性科学.md",
+      "tokens": 16699
+    },
+    {
+      "id": 19,
+      "title": "解释的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/019_解释的本质.md",
+      "tokens": 16696
+    },
+    {
+      "id": 48,
+      "title": "习惯与行为改变",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/048_习惯与行为改变.md",
+      "tokens": 16703
+    },
+    {
+      "id": 46,
+      "title": "身份认同的心理学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/046_身份认同的心理学.md",
+      "tokens": 16698
+    },
+    {
+      "id": 96,
+      "title": "帝国主义与殖民主义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/096_帝国主义与殖民主义.md",
+      "tokens": 16708
+    },
+    {
+      "id": 87,
+      "title": "平台经济",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/087_平台经济.md",
+      "tokens": 16694
+    },
+    {
+      "id": 94,
+      "title": "现代性的本质",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/094_现代性的本质.md",
+      "tokens": 16701
+    },
+    {
+      "id": 15,
+      "title": "美学与审美判断",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/015_美学与审美判断.md",
+      "tokens": 16706
+    },
+    {
+      "id": 38,
+      "title": "认知偏差与启发式",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/038_认知偏差与启发式.md",
+      "tokens": 16702
+    },
+    {
+      "id": 93,
+      "title": "技术与社会变迁",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/093_技术与社会变迁.md",
+      "tokens": 16701
+    },
+    {
+      "id": 36,
+      "title": "自然选择的普遍性",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/036_自然选择的普遍性.md",
+      "tokens": 15766
+    },
+    {
+      "id": 77,
+      "title": "市场的力量与限制",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/077_市场的力量与限制.md",
+      "tokens": 16695
+    },
+    {
+      "id": 6,
+      "title": "理性的边界",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/006_理性的边界.md",
+      "tokens": 7901
+    },
+    {
+      "id": 35,
+      "title": "涌现与还原",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/035_涌现与还原.md",
+      "tokens": 7827
+    },
+    {
+      "id": 4,
+      "title": "价值哲学与价值相对主义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/004_价值哲学与价值相对主义.md",
+      "tokens": 12031
+    },
+    {
+      "id": 20,
+      "title": "哲学方法论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/020_哲学方法论.md",
+      "tokens": 16699
+    },
+    {
+      "id": 110,
+      "title": "应用伦理学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/110_应用伦理学.md",
+      "tokens": 9835
+    },
+    {
+      "id": 133,
+      "title": "神经技术与心灵上传",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/133_神经技术与心灵上传.md",
+      "tokens": 8104
+    },
+    {
+      "id": 130,
+      "title": "人工智能对齐问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/130_人工智能对齐问题.md",
+      "tokens": 8252
+    },
+    {
+      "id": 121,
+      "title": "跨学科研究方法",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/121_跨学科研究方法.md",
+      "tokens": 10190
+    },
+    {
+      "id": 127,
+      "title": "设计思维",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/127_设计思维.md",
+      "tokens": 9348
+    },
+    {
+      "id": 123,
+      "title": "模型思维",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/123_模型思维.md",
+      "tokens": 9796
+    },
+    {
+      "id": 143,
+      "title": "量子计算",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/143_量子计算.md",
+      "tokens": 8902
+    },
+    {
+      "id": 120,
+      "title": "网络思维",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/120_网络思维.md",
+      "tokens": 11387
+    },
+    {
+      "id": 102,
+      "title": "传统与现代的张力",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/102_传统与现代的张力.md",
+      "tokens": 13373
+    },
+    {
+      "id": 126,
+      "title": "战略思维",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/126_战略思维.md",
+      "tokens": 10456
+    },
+    {
+      "id": 103,
+      "title": "知识的社会学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/103_知识的社会学.md",
+      "tokens": 13121
+    },
+    {
+      "id": 136,
+      "title": "能源转型",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/136_能源转型.md",
+      "tokens": 9042
+    },
+    {
+      "id": 109,
+      "title": "关怀伦理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/109_关怀伦理.md",
+      "tokens": 12307
+    },
+    {
+      "id": 89,
+      "title": "竞争战略",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/经济思维与市场/089_竞争战略.md",
+      "tokens": 9644
+    },
+    {
+      "id": 111,
+      "title": "道德心理学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/111_道德心理学.md",
+      "tokens": 12388
+    },
+    {
+      "id": 105,
+      "title": "艺术的社会功能",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/105_艺术的社会功能.md",
+      "tokens": 13155
+    },
+    {
+      "id": 148,
+      "title": "尺度问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/整合性超议题/148_尺度问题.md",
+      "tokens": 9389
+    },
+    {
+      "id": 101,
+      "title": "文化霸权",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/101_文化霸权.md",
+      "tokens": 14210
+    },
+    {
+      "id": 118,
+      "title": "系统思维基础",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/118_系统思维基础.md",
+      "tokens": 12808
+    },
+    {
+      "id": 122,
+      "title": "因果推断",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/122_因果推断.md",
+      "tokens": 12059
+    },
+    {
+      "id": 52,
+      "title": "正念与意识训练",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/人性、心理与行为/052_正念与意识训练.md",
+      "tokens": 11779
+    },
+    {
+      "id": 115,
+      "title": "责任与自由意志",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/115_责任与自由意志.md",
+      "tokens": 12364
+    },
+    {
+      "id": 37,
+      "title": "临界性与相变",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/科学思维与世界观/037_临界性与相变.md",
+      "tokens": 11897
+    },
+    {
+      "id": 92,
+      "title": "文明的兴衰",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/092_文明的兴衰.md",
+      "tokens": 13897
+    },
+    {
+      "id": 142,
+      "title": "虚拟现实与元宇宙",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/142_虚拟现实与元宇宙.md",
+      "tokens": 10691
+    },
+    {
+      "id": 117,
+      "title": "环境伦理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/117_环境伦理.md",
+      "tokens": 12994
+    },
+    {
+      "id": 147,
+      "title": "权衡的艺术",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/整合性超议题/147_权衡的艺术.md",
+      "tokens": 10924
+    },
+    {
+      "id": 107,
+      "title": "义务论伦理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/107_义务论伦理.md",
+      "tokens": 15106
+    },
+    {
+      "id": 138,
+      "title": "长期主义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/138_长期主义.md",
+      "tokens": 11855
+    },
+    {
+      "id": 141,
+      "title": "后人类主义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/141_后人类主义.md",
+      "tokens": 11545
+    },
+    {
+      "id": 134,
+      "title": "数字化与算法治理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/134_数字化与算法治理.md",
+      "tokens": 12907
+    },
+    {
+      "id": 140,
+      "title": "技术的社会建构",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/140_技术的社会建构.md",
+      "tokens": 11906
+    },
+    {
+      "id": 144,
+      "title": "纳米技术",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/144_纳米技术.md",
+      "tokens": 12246
+    },
+    {
+      "id": 124,
+      "title": "批判性思维",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/124_批判性思维.md",
+      "tokens": 13338
+    },
+    {
+      "id": 114,
+      "title": "利他主义与利己主义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/114_利他主义与利己主义.md",
+      "tokens": 14971
+    },
+    {
+      "id": 125,
+      "title": "贝叶斯思维",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/125_贝叶斯思维.md",
+      "tokens": 14690
+    },
+    {
+      "id": 132,
+      "title": "生物技术革命",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/132_生物技术革命.md",
+      "tokens": 13480
+    },
+    {
+      "id": 113,
+      "title": "意义、目的与好生活",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/113_意义、目的与好生活.md",
+      "tokens": 15291
+    },
+    {
+      "id": 146,
+      "title": "知识的统一",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/整合性超议题/146_知识的统一.md",
+      "tokens": 12343
+    },
+    {
+      "id": 74,
+      "title": "隐私与监控",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/074_隐私与监控.md",
+      "tokens": 12332
+    },
+    {
+      "id": 104,
+      "title": "语言与文化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/104_语言与文化.md",
+      "tokens": 10002
+    },
+    {
+      "id": 128,
+      "title": "数据素养",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/128_数据素养.md",
+      "tokens": 14235
+    },
+    {
+      "id": 149,
+      "title": "变化与永恒",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/整合性超议题/149_变化与永恒.md",
+      "tokens": 13246
+    },
+    {
+      "id": 112,
+      "title": "相对主义与普遍主义",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/112_相对主义与普遍主义.md",
+      "tokens": 16703
+    },
+    {
+      "id": 106,
+      "title": "后果主义伦理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/106_后果主义伦理.md",
+      "tokens": 16704
+    },
+    {
+      "id": 135,
+      "title": "气候变化",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/135_气候变化.md",
+      "tokens": 14274
+    },
+    {
+      "id": 119,
+      "title": "复杂适应系统",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/119_复杂适应系统.md",
+      "tokens": 16697
+    },
+    {
+      "id": 139,
+      "title": "存在风险",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/139_存在风险.md",
+      "tokens": 14275
+    },
+    {
+      "id": 129,
+      "title": "元认知与学习",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/系统思维与方法论/129_元认知与学习.md",
+      "tokens": 16695
+    },
+    {
+      "id": 116,
+      "title": "动物伦理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/116_动物伦理.md",
+      "tokens": 8698
+    },
+    {
+      "id": 67,
+      "title": "权利的基础",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/社会、政治与制度/067_权利的基础.md",
+      "tokens": 16309
+    },
+    {
+      "id": 137,
+      "title": "太空探索的哲学",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/137_太空探索的哲学.md",
+      "tokens": 16707
+    },
+    {
+      "id": 150,
+      "title": "终极问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/整合性超议题/150_终极问题.md",
+      "tokens": 15534
+    },
+    {
+      "id": 18,
+      "title": "实在论vs反实在论",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/哲学基础与认知架构/018_实在论vs反实在论.md",
+      "tokens": 16706
+    },
+    {
+      "id": 108,
+      "title": "德性伦理",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/伦理、道德与价值/108_德性伦理.md",
+      "tokens": 12988
+    },
+    {
+      "id": 131,
+      "title": "技术奇点",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/技术、未来与存在风险/131_技术奇点.md",
+      "tokens": 16704
+    },
+    {
+      "id": 99,
+      "title": "宗教的社会功能",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/历史、文明与文化/099_宗教的社会功能.md",
+      "tokens": 8820
+    },
+    {
+      "id": 145,
+      "title": "世界观的结构",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/知识体系文档/整合性超议题/145_世界观的结构.md",
+      "tokens": 11681
+    }
+  ]
+}

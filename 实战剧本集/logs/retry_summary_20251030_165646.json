@@ -1,0 +1,88 @@
+{
+  "generation_time": "2025-10-30T16:56:46.753888",
+  "model": "Claude-Sonnet-4.5",
+  "total_playbooks": 11,
+  "successful": 11,
+  "failed": 0,
+  "total_tokens": 188776,
+  "max_workers": 100,
+  "results": [
+    {
+      "id": 102,
+      "title": "供应链/合作伙伴崩溃",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/危机应对剧本/102_供应链-合作伙伴崩溃.md",
+      "tokens": 17160
+    },
+    {
+      "id": 103,
+      "title": "监管/合规突发问题",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/危机应对剧本/103_监管-合规突发问题.md",
+      "tokens": 17152
+    },
+    {
+      "id": 74,
+      "title": "导师/顾问选择框架",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/关键决策框架/074_导师-顾问选择框架.md",
+      "tokens": 17152
+    },
+    {
+      "id": 99,
+      "title": "技术/实验重大失败",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/危机应对剧本/099_技术-实验重大失败.md",
+      "tokens": 17153
+    },
+    {
+      "id": 17,
+      "title": "客户/合作伙伴谈判",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/高风险对话剧本/017_客户-合作伙伴谈判.md",
+      "tokens": 17158
+    },
+    {
+      "id": 32,
+      "title": "慈善晚宴/拍卖会",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/社交场景剧本/032_慈善晚宴-拍卖会.md",
+      "tokens": 17174
+    },
+    {
+      "id": 42,
+      "title": "与名人/大咖互动",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/社交场景剧本/042_与名人-大咖互动.md",
+      "tokens": 17162
+    },
+    {
+      "id": 46,
+      "title": "学术演讲的完美交付",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/专业场景剧本/046_学术演讲的完美交付.md",
+      "tokens": 17167
+    },
+    {
+      "id": 31,
+      "title": "艺术展览/拍卖会社交",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/社交场景剧本/031_艺术展览-拍卖会社交.md",
+      "tokens": 17178
+    },
+    {
+      "id": 53,
+      "title": "产品演示/Demo的设计",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/专业场景剧本/053_产品演示-Demo的设计.md",
+      "tokens": 17156
+    },
+    {
+      "id": 30,
+      "title": "高尔夫/网球社交",
+      "success": true,
+      "filepath": "/Users/augustsirius/第二大脑/运行中项目/实战剧本集/社交场景剧本/030_高尔夫-网球社交.md",
+      "tokens": 17164
+    }
+  ]
+}
