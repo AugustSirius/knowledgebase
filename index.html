@@ -9,54 +9,174 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-            display: flex; height: 100vh; 
+            display: flex; 
+            flex-direction: column;
+            height: 100vh; 
         }
+        
+        /* 导航栏 */
         nav { 
-            width: 280px; background: #f5f5f5; 
-            overflow-y: auto; padding: 20px; border-right: 1px solid #ddd;
+            background: #f5f5f5; 
+            overflow-y: auto; 
+            padding: 20px; 
+            border-bottom: 1px solid #ddd;
+        }
+        nav h2 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            color: #333;
         }
         nav a { 
-            display: block; padding: 8px; margin: 2px 0; 
-            text-decoration: none; color: #333; border-radius: 4px;
+            display: block; 
+            padding: 10px; 
+            margin: 2px 0; 
+            text-decoration: none; 
+            color: #333; 
+            border-radius: 4px;
+            font-size: 14px;
         }
         nav a:hover { background: #e0e0e0; }
         nav a.active { background: #007bff; color: white; }
         nav .folder { 
-            font-weight: bold; color: #666; 
-            margin: 15px 0 5px; padding-left: 0;
+            font-weight: bold; 
+            color: #666; 
+            margin: 15px 0 5px; 
+            padding-left: 0;
+            cursor: pointer;
+            user-select: none;
+        }
+        nav .folder::before {
+            content: '▶ ';
+            display: inline-block;
+            transition: transform 0.2s;
+        }
+        nav .folder.open::before {
+            transform: rotate(90deg);
+        }
+        nav .folder-content {
+            display: none;
+            padding-left: 15px;
+        }
+        nav .folder-content.open {
+            display: block;
         }
         nav .file { padding-left: 20px; }
-        main { 
-            flex: 1; overflow-y: auto; padding: 40px;
-            max-width: 900px; margin: 0 auto;
-        }
-        main h1 { font-size: 2em; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
-        main h2 { font-size: 1.5em; margin: 30px 0 15px; }
-        main h3 { font-size: 1.2em; margin: 20px 0 10px; }
-        main p { margin-bottom: 15px; line-height: 1.6; }
-        main code { background: #f5f5f5; padding: 2px 6px; border-radius: 3px; }
-        main pre { background: #f5f5f5; padding: 15px; border-radius: 5px; overflow-x: auto; margin: 15px 0; }
-        main pre code { background: none; padding: 0; }
-        main blockquote { border-left: 4px solid #007bff; padding-left: 15px; margin: 15px 0; color: #666; }
-        main ul, main ol { margin: 15px 0; padding-left: 30px; }
-        main li { margin: 5px 0; }
         
+        /* 内容区 */
+        main { 
+            flex: 1; 
+            overflow-y: auto; 
+            padding: 20px;
+            background: white;
+        }
+        
+        /* 阅读状态按钮 */
+        .read-status {
+            position: sticky;
+            top: 0;
+            background: white;
+            padding: 10px 0;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #eee;
+            z-index: 10;
+        }
+        .read-btn {
+            display: inline-block;
+            padding: 8px 16px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .read-btn:hover {
+            background: #218838;
+        }
+        .read-btn.marked {
+            background: #6c757d;
+        }
+        
+        /* Markdown样式 */
+        .content h1 { font-size: 28px; margin-bottom: 20px; padding-bottom: 10px; }
+        .content h2 { font-size: 22px; margin: 25px 0 15px; }
+        .content h3 { font-size: 18px; margin: 20px 0 10px; }
+        .content p { margin-bottom: 15px; line-height: 1.6; }
+        .content code { background: #f5f5f5; padding: 2px 6px; border-radius: 3px; font-size: 0.9em; }
+        .content pre { background: #f5f5f5; padding: 15px; border-radius: 5px; overflow-x: auto; margin: 15px 0; }
+        .content pre code { background: none; padding: 0; }
+        .content blockquote { border-left: 4px solid #007bff; padding-left: 15px; margin: 15px 0; color: #666; }
+        .content ul, .content ol { margin: 15px 0; padding-left: 30px; }
+        .content li { margin: 5px 0; }
+        .content table { border-collapse: collapse; width: 100%; margin: 15px 0; }
+        .content th, .content td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        .content th { background: #f5f5f5; }
+        
+        /* 桌面端布局 */
+        @media (min-width: 769px) {
+            body { flex-direction: row; }
+            nav { 
+                width: 300px; 
+                border-bottom: none;
+                border-right: 1px solid #ddd;
+                height: 100vh;
+            }
+            main { 
+                padding: 40px;
+                max-width: 900px;
+                margin: 0 auto;
+            }
+            .content h1 { font-size: 32px; }
+            .content h2 { font-size: 24px; }
+            .content h3 { font-size: 20px; }
+        }
+        
+        /* 手机端 - 侧边栏可折叠 */
         @media (max-width: 768px) {
-            body { flex-direction: column; }
-            nav { width: 100%; height: 40vh; border-right: none; border-bottom: 1px solid #ddd; }
-            main { padding: 20px; }
+            nav {
+                max-height: 50vh;
+                transition: max-height 0.3s;
+            }
+            nav.collapsed {
+                max-height: 60px;
+                overflow: hidden;
+            }
+            nav h2 {
+                cursor: pointer;
+            }
+            nav h2::after {
+                content: ' ▼';
+                float: right;
+                transition: transform 0.3s;
+            }
+            nav.collapsed h2::after {
+                transform: rotate(-90deg);
+            }
+        }
+        
+        .welcome {
+            text-align: center;
+            padding: 40px 20px;
+            color: #999;
         }
     </style>
 </head>
 <body>
-    <nav id="nav"></nav>
-    <main id="content">
-        <h1>欢迎</h1>
-        <p>请从左侧选择文章</p>
+    <nav id="nav">
+        <h2 onclick="toggleNav()">📚 AI知识体系库</h2>
+        <div id="nav-content"></div>
+    </nav>
+    <main>
+        <div id="content">
+            <div class="welcome">
+                <h1>欢迎</h1>
+                <p>请从侧边栏选择文章</p>
+            </div>
+        </div>
     </main>
 
     <script>
-        // 文件列表 - 运行生成脚本自动更新
+        // 文件列表 - 运行generate.py自动更新
         const files = [
                     {
                                 "path": "深度探索文档/INDEX.md",
@@ -2160,25 +2280,128 @@
                     }
         ];
 
-        // 构建导航树
-        const tree = {};
-        files.forEach(file => {
-            const parts = file.path.split('/');
-            let current = tree;
-            parts.forEach((part, i) => {
-                if (i === parts.length - 1) {
-                    current[part] = file;
-                } else {
-                    current[part] = current[part] || {};
-                    current = current[part];
-                }
+        let currentFile = null;
+
+        // 读取已读状态
+        function getReadStatus() {
+            return JSON.parse(localStorage.getItem('readFiles') || '[]');
+        }
+
+        // 保存已读状态
+        function saveReadStatus(readFiles) {
+            localStorage.setItem('readFiles', JSON.stringify(readFiles));
+        }
+
+        // 标记/取消标记为已读
+        function toggleReadStatus() {
+            if (!currentFile) return;
+            
+            const readFiles = getReadStatus();
+            const index = readFiles.indexOf(currentFile);
+            
+            if (index > -1) {
+                readFiles.splice(index, 1);
+            } else {
+                readFiles.push(currentFile);
+            }
+            
+            saveReadStatus(readFiles);
+            renderNav();
+            updateReadButton();
+        }
+
+        // 更新已读按钮状态
+        function updateReadButton() {
+            const btn = document.querySelector('.read-btn');
+            if (!btn) return;
+            
+            const readFiles = getReadStatus();
+            if (readFiles.includes(currentFile)) {
+                btn.textContent = '✓ 已读';
+                btn.classList.add('marked');
+            } else {
+                btn.textContent = '标记为已读';
+                btn.classList.remove('marked');
+            }
+        }
+
+        // 构建导航树（分未读和已读）
+        function buildTree() {
+            const readFiles = getReadStatus();
+            const unread = { name: '未读', children: {} };
+            const read = { name: '已读', children: {} };
+            
+            files.forEach(file => {
+                const isRead = readFiles.includes(file.path);
+                const target = isRead ? read.children : unread.children;
+                
+                const parts = file.path.split('/');
+                let current = target;
+                
+                parts.forEach((part, i) => {
+                    if (i === parts.length - 1) {
+                        current[part] = file;
+                    } else {
+                        current[part] = current[part] || {};
+                        current = current[part];
+                    }
+                });
             });
-        });
+            
+            return { unread, read };
+        }
 
         // 渲染导航
-        function renderNav(obj, container, level = 0) {
+        function renderNav() {
+            const navContent = document.getElementById('nav-content');
+            navContent.innerHTML = '';
+            
+            const { unread, read } = buildTree();
+            
+            // 渲染未读
+            if (Object.keys(unread.children).length > 0) {
+                const unreadDiv = document.createElement('div');
+                unreadDiv.className = 'folder open';
+                unreadDiv.textContent = '📖 未读';
+                navContent.appendChild(unreadDiv);
+                
+                const unreadContent = document.createElement('div');
+                unreadContent.className = 'folder-content open';
+                navContent.appendChild(unreadContent);
+                
+                renderTree(unread.children, unreadContent);
+                
+                unreadDiv.onclick = () => {
+                    unreadDiv.classList.toggle('open');
+                    unreadContent.classList.toggle('open');
+                };
+            }
+            
+            // 渲染已读
+            if (Object.keys(read.children).length > 0) {
+                const readDiv = document.createElement('div');
+                readDiv.className = 'folder';
+                readDiv.textContent = '✓ 已读';
+                navContent.appendChild(readDiv);
+                
+                const readContent = document.createElement('div');
+                readContent.className = 'folder-content';
+                navContent.appendChild(readContent);
+                
+                renderTree(read.children, readContent);
+                
+                readDiv.onclick = () => {
+                    readDiv.classList.toggle('open');
+                    readContent.classList.toggle('open');
+                };
+            }
+        }
+
+        // 渲染树结构
+        function renderTree(obj, container, level = 0) {
             Object.keys(obj).sort().forEach(key => {
                 if (obj[key].path) {
+                    // 文件
                     const a = document.createElement('a');
                     a.href = '#';
                     a.className = 'file';
@@ -2188,33 +2411,66 @@
                         loadFile(obj[key].path);
                         document.querySelectorAll('nav a').forEach(el => el.classList.remove('active'));
                         a.classList.add('active');
+                        
+                        // 手机端加载文章后收起导航
+                        if (window.innerWidth <= 768) {
+                            document.getElementById('nav').classList.add('collapsed');
+                        }
                     };
                     container.appendChild(a);
                 } else {
-                    const div = document.createElement('div');
-                    div.className = 'folder';
-                    div.textContent = key;
-                    div.style.paddingLeft = (level * 10) + 'px';
-                    container.appendChild(div);
-                    renderNav(obj[key], container, level + 1);
+                    // 文件夹
+                    const folder = document.createElement('div');
+                    folder.className = 'folder open';
+                    folder.textContent = key;
+                    folder.style.paddingLeft = (level * 10) + 'px';
+                    container.appendChild(folder);
+                    
+                    const folderContent = document.createElement('div');
+                    folderContent.className = 'folder-content open';
+                    container.appendChild(folderContent);
+                    
+                    folder.onclick = () => {
+                        folder.classList.toggle('open');
+                        folderContent.classList.toggle('open');
+                    };
+                    
+                    renderTree(obj[key], folderContent, level + 1);
                 }
             });
         }
 
         // 加载文件
         async function loadFile(path) {
+            currentFile = path;
             const content = document.getElementById('content');
-            content.innerHTML = '<p>加载中...</p>';
+            content.innerHTML = '<div class="read-status"><button class="read-btn" onclick="toggleReadStatus()">标记为已读</button></div><div class="content"><p>加载中...</p></div>';
+            
             try {
                 const res = await fetch(path);
                 const text = await res.text();
-                content.innerHTML = marked.parse(text);
+                const html = marked.parse(text);
+                content.innerHTML = `
+                    <div class="read-status">
+                        <button class="read-btn" onclick="toggleReadStatus()">标记为已读</button>
+                    </div>
+                    <div class="content">${html}</div>
+                `;
+                updateReadButton();
             } catch (e) {
-                content.innerHTML = `<h1>错误</h1><p>无法加载: ${path}</p>`;
+                content.innerHTML = `<div class="content"><h1>错误</h1><p>无法加载: ${path}</p></div>`;
             }
         }
 
-        renderNav(tree, document.getElementById('nav'));
+        // 手机端折叠导航
+        function toggleNav() {
+            if (window.innerWidth <= 768) {
+                document.getElementById('nav').classList.toggle('collapsed');
+            }
+        }
+
+        // 初始化
+        renderNav();
     </script>
 </body>
 </html>
